@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="Parallels Desktop interface" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/240px-Virtualbox_logo.png" />
+<img width="2880" height="1620" alt="Parallels Desktop interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Adobe_Photoshop_2023_screenshot.png/1280px-Adobe_Photoshop_2023_screenshot.png" />
 </div>
 
 ---
